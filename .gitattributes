@@ -2,9 +2,9 @@
 *.vtf binary
 
 # Другие бинарные файлы (если есть: модели, звуки)
-*.mdl binary
-*.wav binary
-*.mp3 binary
+#*.mdl binary
+#*.wav binary
+#*.mp3 binary
 *.vmt binary
 
 # Все текстовые файлы нормализуем автоматически
